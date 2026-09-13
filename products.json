@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "name": "Golden Droplet Lariat Necklace",
+      "cat": "Necklaces",
+      "price": 3000,
+      "priceLabel": "₦3,000",
+      "note": "",
+      "img": "images/uploads/necklace-droplet.jpg",
+      "desc": "A delicate gold-tone lariat with cascading teardrop charms — dressy enough for an event, simple enough for every day."
+    },
+    {
+      "name": "Time4U Watch & Bracelet Set",
+      "cat": "Watches",
+      "price": 4500,
+      "priceLabel": "₦4,500",
+      "note": "Also available in gold tone; men's beads version is ₦3,500",
+      "img": "images/uploads/watch-bracelet-set.jpg",
+      "desc": "A rhinestone-studded watch paired with a matching crystal bracelet — a two-piece set that looks like it cost a lot more."
+    },
+    {
+      "name": "His & Hers Beaded Bracelet Set",
+      "cat": "Bracelets",
+      "price": 4700,
+      "priceLabel": "₦4,700",
+      "note": "",
+      "img": "images/uploads/beaded-bracelets.jpg",
+      "desc": "Matte onyx beads with gold and tiger's-eye accents — a couple-friendly set that still works worn solo."
+    },
+    {
+      "name": "Layered Waist Chain (2-in-1)",
+      "cat": "Waist Chains",
+      "price": 4700,
+      "priceLabel": "₦4,700",
+      "note": "",
+      "img": "images/uploads/waist-chain.jpg",
+      "desc": "A double-layer gold-tone waist chain with onyx drop charms — for the girls who like their jewelry a little unexpected."
+    },
+    {
+      "name": "Silver 4-Piece Jewelry Set",
+      "cat": "Sets",
+      "price": 9000,
+      "priceLabel": "₦9,000",
+      "note": "",
+      "img": "images/uploads/silver-jewelry-set.jpg",
+      "desc": "A coordinated silver-tone set — crystal watch, two statement bracelets, and a heart-link necklace. Sold as a full set."
+    },
+    {
+      "name": "Gold \"V\" Pendant Necklace",
+      "cat": "Necklaces",
+      "price": 2500,
+      "priceLabel": "₦2,500",
+      "note": "",
+      "img": "images/uploads/gold-v-necklace.jpg",
+      "desc": "A clean, minimal gold-tone chain with a signature V pendant and beaded chain detail — an everyday staple."
+    },
+    {
+      "name": "Emerald Leaf Necklace & Earring Set",
+      "cat": "Sets",
+      "price": 2500,
+      "priceLabel": "₦2,500",
+      "note": "",
+      "img": "images/uploads/gem-necklace-earrings.jpg",
+      "desc": "A statement necklace and stud earring set with emerald and ruby-tone leaf detailing — built for owambe season."
+    }
+  ]
+}
