@@ -62,6 +62,14 @@
       "note": "",
       "img": "images/uploads/gem-necklace-earrings.jpg",
       "desc": "A statement necklace and stud earring set with emerald and ruby-tone leaf detailing — built for owambe season."
+    },
+    {
+      "name": "Valenzo watch",
+      "cat": "Watches",
+      "price": 13000,
+      "priceLabel": "13000",
+      "img": "images/uploads/img-20260912-wa0042.jpg",
+      "desc": "Male valenzo watch "
     }
   ]
 }
